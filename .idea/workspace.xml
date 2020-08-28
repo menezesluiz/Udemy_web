@@ -19,22 +19,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80279840-00e5-4b9c-a1f8-cdae358f7c17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Udemy_web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios-js/organizacao.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios-js/organizacao.js" afterDir="false" />
+    <list default="true" id="80279840-00e5-4b9c-a1f8-cdae358f7c17" name="Default Changelist" comment="web_dev">
+      <change afterPath="$PROJECT_DIR$/exercicios-js/tipagemFraca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios-js/comentarios.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios-js/comentarios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios-js/variaveisEconstantes.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios-js/variaveisEconstantes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ge5tMahTav4gL37aqBxtsqINR5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,13 +54,35 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/exercicios-js/organizacao.js" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.tipagemFraca.js">
+    <configuration name="comentarios.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercicios-js/comentarios.js" working-dir="$PROJECT_DIR$/exercicios-js">
+      <method v="2" />
+    </configuration>
+    <configuration name="tipagemFraca.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercicios-js/tipagemFraca.js" working-dir="$PROJECT_DIR$/exercicios-js">
+      <method v="2" />
+    </configuration>
     <configuration name="udemy_web" type="NodeJSConfigurationType" path-to-js-file="exercicios-js/organizacao.js" working-dir="$PROJECT_DIR$">
       <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
         <browser name="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" with-js-debugger="true" />
       </EXTENSION>
       <method v="2" />
     </configuration>
+    <configuration name="variaveisEconstantes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercicios-js/variaveisEconstantes.js" working-dir="$PROJECT_DIR$/exercicios-js">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.udemy_web" />
+      <item itemvalue="Node.js.comentarios.js" />
+      <item itemvalue="Node.js.variaveisEconstantes.js" />
+      <item itemvalue="Node.js.tipagemFraca.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.tipagemFraca.js" />
+        <item itemvalue="Node.js.variaveisEconstantes.js" />
+        <item itemvalue="Node.js.comentarios.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,8 +93,25 @@
       <option name="presentableId" value="Default" />
       <updated>1598462430411</updated>
       <workItem from="1598462431977" duration="10000" />
-      <workItem from="1598462456037" duration="555000" />
+      <workItem from="1598462456037" duration="4219000" />
+      <workItem from="1598577679169" duration="13000" />
+      <workItem from="1598577706440" duration="364000" />
     </task>
+    <task id="LOCAL-00001" summary="web_dev">
+      <created>1598463107090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598463107090</updated>
+    </task>
+    <task id="LOCAL-00002" summary="web_dev">
+      <created>1598463115465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598463115465</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +127,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="web_dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="web_dev" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598463013523">
@@ -89,25 +142,81 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462969532" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1598462973650">
+    <state width="1579" height="276" key="GridCell.Tab.0.bottom" timestamp="1598547229999">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462973650" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1598462973650">
+    <state width="1579" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547229999" />
+    <state width="1579" height="276" key="GridCell.Tab.0.center" timestamp="1598547229999">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462973650" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1598462973650">
+    <state width="1579" height="276" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547229999" />
+    <state width="1579" height="276" key="GridCell.Tab.0.left" timestamp="1598547229999">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462973650" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1598462973650">
+    <state width="1579" height="276" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547229999" />
+    <state width="1579" height="276" key="GridCell.Tab.0.right" timestamp="1598547229999">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462973650" />
+    <state width="1579" height="276" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547229999" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1598547229999">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547229999" />
+    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.2.bottom" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.2.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.2.center" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.2.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.2.left" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.2.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.2.right" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.2.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.3.bottom" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.3.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.3.center" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.3.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.3.left" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.3.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
+    <state width="1579" height="276" key="GridCell.Tab.3.right" timestamp="1598547230000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.3.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
     <state x="301" y="75" key="SettingsEditor" timestamp="1598462633093">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="75" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462633093" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598463127733">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598463127733" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598463117119">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598463117119" />
   </component>
 </project>
