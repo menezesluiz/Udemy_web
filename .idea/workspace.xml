@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80279840-00e5-4b9c-a1f8-cdae358f7c17" name="Default Changelist" comment="web_dev">
-      <change afterPath="$PROJECT_DIR$/exercicios-js/tipagemFraca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios-js/math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/numeros.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/numerosAlgunsCuidados.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/templateString.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios-js/comentarios.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios-js/comentarios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios-js/variaveisEconstantes.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios-js/variaveisEconstantes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +56,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/exercicios-js/organizacao.js" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Node.js.tipagemFraca.js">
-    <configuration name="comentarios.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercicios-js/comentarios.js" working-dir="$PROJECT_DIR$/exercicios-js">
+  <component name="RunManager" selected="Node.js.templateString.js">
+    <configuration name="math.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercicios-js/math.js" working-dir="$PROJECT_DIR$/exercicios-js">
       <method v="2" />
     </configuration>
-    <configuration name="tipagemFraca.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercicios-js/tipagemFraca.js" working-dir="$PROJECT_DIR$/exercicios-js">
+    <configuration name="numerosAlgunsCuidados.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/numerosAlgunsCuidados.js" working-dir="$PROJECT_DIR$/fundamentos">
+      <method v="2" />
+    </configuration>
+    <configuration name="numeros.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/numeros.js" working-dir="$PROJECT_DIR$/fundamentos">
+      <method v="2" />
+    </configuration>
+    <configuration name="strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/strings.js" working-dir="$PROJECT_DIR$/fundamentos">
+      <method v="2" />
+    </configuration>
+    <configuration name="templateString.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/templateString.js" working-dir="$PROJECT_DIR$/fundamentos">
       <method v="2" />
     </configuration>
     <configuration name="udemy_web" type="NodeJSConfigurationType" path-to-js-file="exercicios-js/organizacao.js" working-dir="$PROJECT_DIR$">
@@ -67,20 +78,21 @@
       </EXTENSION>
       <method v="2" />
     </configuration>
-    <configuration name="variaveisEconstantes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/exercicios-js/variaveisEconstantes.js" working-dir="$PROJECT_DIR$/exercicios-js">
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Node.js.udemy_web" />
-      <item itemvalue="Node.js.comentarios.js" />
-      <item itemvalue="Node.js.variaveisEconstantes.js" />
-      <item itemvalue="Node.js.tipagemFraca.js" />
+      <item itemvalue="Node.js.numeros.js" />
+      <item itemvalue="Node.js.numerosAlgunsCuidados.js" />
+      <item itemvalue="Node.js.math.js" />
+      <item itemvalue="Node.js.strings.js" />
+      <item itemvalue="Node.js.templateString.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.tipagemFraca.js" />
-        <item itemvalue="Node.js.variaveisEconstantes.js" />
-        <item itemvalue="Node.js.comentarios.js" />
+        <item itemvalue="Node.js.templateString.js" />
+        <item itemvalue="Node.js.strings.js" />
+        <item itemvalue="Node.js.math.js" />
+        <item itemvalue="Node.js.numerosAlgunsCuidados.js" />
+        <item itemvalue="Node.js.numeros.js" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +107,8 @@
       <workItem from="1598462431977" duration="10000" />
       <workItem from="1598462456037" duration="4219000" />
       <workItem from="1598577679169" duration="13000" />
-      <workItem from="1598577706440" duration="364000" />
+      <workItem from="1598577706440" duration="2009000" />
+      <workItem from="1598725189447" duration="2795000" />
     </task>
     <task id="LOCAL-00001" summary="web_dev">
       <created>1598463107090</created>
@@ -111,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598463115465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="web_dev">
+      <created>1598578098808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598578098808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,22 +162,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462969532" />
-    <state width="1579" height="276" key="GridCell.Tab.0.bottom" timestamp="1598547229999">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1598728962755">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547229999" />
-    <state width="1579" height="276" key="GridCell.Tab.0.center" timestamp="1598547229999">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598728962755" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1598728962754">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547229999" />
-    <state width="1579" height="276" key="GridCell.Tab.0.left" timestamp="1598547229999">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598728962754" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1598728962754">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547229999" />
-    <state width="1579" height="276" key="GridCell.Tab.0.right" timestamp="1598547229999">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598728962754" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1598728962755">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547229999" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598728962755" />
     <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1598547230000">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -210,13 +230,17 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="75" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462633093" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598463127733">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598578103947">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598463127733" />
-    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598463117119">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598578103947" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598578087444">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598463117119" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598578087444" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1598728367300">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598728367300" />
   </component>
 </project>
