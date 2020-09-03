@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80279840-00e5-4b9c-a1f8-cdae358f7c17" name="Default Changelist" comment="web_dev">
-      <change afterPath="$PROJECT_DIR$/fundamentos/objetos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/funcaoEmQuaseTudo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos/nullUndefined.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,20 +54,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/exercicios-js/organizacao.js" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.objetos.js">
-    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/arrays.js" working-dir="$PROJECT_DIR$/fundamentos">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.funcaoEmQuaseTudo.js">
     <configuration name="booleanos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/booleanos.js" working-dir="$PROJECT_DIR$/fundamentos">
       <method v="2" />
     </configuration>
-    <configuration name="objetos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/objetos.js" working-dir="$PROJECT_DIR$/fundamentos">
+    <configuration name="funcaoEmQuaseTudo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/funcaoEmQuaseTudo.js" working-dir="$PROJECT_DIR$/fundamentos">
       <method v="2" />
     </configuration>
-    <configuration name="strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/strings.js" working-dir="$PROJECT_DIR$/fundamentos">
+    <configuration name="nullUndefined.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/nullUndefined.js" working-dir="$PROJECT_DIR$/fundamentos">
+      <method v="2" />
+    </configuration>
+    <configuration name="objetos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/objetos.js" working-dir="$PROJECT_DIR$/fundamentos">
       <method v="2" />
     </configuration>
     <configuration name="templateString.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fundamentos/templateString.js" working-dir="$PROJECT_DIR$/fundamentos">
@@ -81,18 +82,18 @@
     <list>
       <item itemvalue="Node.js.udemy_web" />
       <item itemvalue="Node.js.booleanos.js" />
-      <item itemvalue="Node.js.strings.js" />
-      <item itemvalue="Node.js.templateString.js" />
-      <item itemvalue="Node.js.arrays.js" />
       <item itemvalue="Node.js.objetos.js" />
+      <item itemvalue="Node.js.templateString.js" />
+      <item itemvalue="Node.js.nullUndefined.js" />
+      <item itemvalue="Node.js.funcaoEmQuaseTudo.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.objetos.js" />
-        <item itemvalue="Node.js.arrays.js" />
-        <item itemvalue="Node.js.booleanos.js" />
+        <item itemvalue="Node.js.funcaoEmQuaseTudo.js" />
+        <item itemvalue="Node.js.nullUndefined.js" />
         <item itemvalue="Node.js.templateString.js" />
-        <item itemvalue="Node.js.strings.js" />
+        <item itemvalue="Node.js.objetos.js" />
+        <item itemvalue="Node.js.booleanos.js" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +112,9 @@
       <workItem from="1598725189447" duration="3924000" />
       <workItem from="1598730118547" duration="66000" />
       <workItem from="1599006062982" duration="759000" />
-      <workItem from="1599098951912" duration="2379000" />
+      <workItem from="1599098951912" duration="2908000" />
+      <workItem from="1599138785066" duration="907000" />
+      <workItem from="1599140767610" duration="2168000" />
     </task>
     <task id="LOCAL-00001" summary="web_dev">
       <created>1598463107090</created>
@@ -155,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599101695091</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="web_dev">
+      <created>1599102343532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599102343532</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,22 +196,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462969532" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1599102321562">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1599141731492">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599102321562" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1599102321561">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599141731492" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1599141731492">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599102321561" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1599102321561">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599141731492" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1599141731491">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599102321561" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1599102321561">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599141731491" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1599141731492">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599102321561" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599141731492" />
     <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1598547230000">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -250,18 +260,18 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1579" height="276" key="GridCell.Tab.3.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
-    <state x="602" y="0" key="SettingsEditor" timestamp="1599101618371">
+    <state x="602" y="0" key="SettingsEditor" timestamp="1599141304504">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="602" y="0" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101618371" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599101703697">
+    <state x="602" y="0" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599141304504" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599102361506">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101703697" />
-    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599101696826">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599102361506" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599102349034">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101696826" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599102349034" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1598728367300">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
