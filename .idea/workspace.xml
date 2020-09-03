@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80279840-00e5-4b9c-a1f8-cdae358f7c17" name="Default Changelist" comment="web_dev">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentos/booleanos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="80279840-00e5-4b9c-a1f8-cdae358f7c17" name="Default Changelist" comment="web_dev" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +49,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/exercicios-js/organizacao.js" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.arrays.js">
@@ -112,7 +108,7 @@
       <workItem from="1598725189447" duration="3924000" />
       <workItem from="1598730118547" duration="66000" />
       <workItem from="1599006062982" duration="759000" />
-      <workItem from="1599098951912" duration="1231000" />
+      <workItem from="1599098951912" duration="1662000" />
     </task>
     <task id="LOCAL-00001" summary="web_dev">
       <created>1598463107090</created>
@@ -142,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598729246732</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="web_dev">
+      <created>1599101461746</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599101461746</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,22 +176,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598462969532" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1599101096844">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1599101368275">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101096844" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1599101096843">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101368275" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1599101368275">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101096843" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1599101096843">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101368275" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1599101368274">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101096843" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1599101096844">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101368274" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1599101368275">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101096844" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101368275" />
     <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1598547230000">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -237,18 +240,18 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1579" height="276" key="GridCell.Tab.3.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547230000" />
-    <state x="602" y="0" key="SettingsEditor" timestamp="1598730169301">
+    <state x="602" y="0" key="SettingsEditor" timestamp="1599101618371">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="602" y="0" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598730169301" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598729258277">
+    <state x="602" y="0" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101618371" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1599101566921">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598729258277" />
-    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598729248896">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101566921" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599101466260">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598729248896" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1599101466260" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1598728367300">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
